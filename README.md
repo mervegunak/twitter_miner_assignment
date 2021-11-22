@@ -6,7 +6,10 @@ In this assignment, I will implement a simple Python program which analyze a num
 I converted the data in json format into a db named "assg4.db" so I also practiced sqlite.
 
 
-to do list: 
 
-**explanation and questions will be added**
-**comment line will be added in the code**
+
+**to do list:** 
+```
+1-explanation and questions will be added
+
+2-comment line will be added in the code
